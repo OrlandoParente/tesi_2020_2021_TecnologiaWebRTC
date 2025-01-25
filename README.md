@@ -1,5 +1,5 @@
 ### Tecnologia WebRTC, tesi Università di Tor Vergata - Informatica 2020/2021
-Questa è il progetto dela tesi che ho presentato per il conseguimento della laurea triennale in Informatica presso l'Università di Tor Vergata.  
+Questa è il progetto della tesi che ho presentato per il conseguimento della laurea triennale in Informatica presso l'Università di Tor Vergata.  
 Nella mia tesi ho trattato la tecnologia WebRTC, cioè delle API javascipt sviluppate da Google che servono a programmare videochiamate di qualità.  
 Questo progetto rappresenta un utilizzo pratico delle API WebRTC.  
 
