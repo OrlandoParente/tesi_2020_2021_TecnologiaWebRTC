@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+}
+
+footer {
+    width: 100%;
+    min-height: 340px;
+    background-color: lightgray;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    background-color: gray;
+    /*height: 40px;*/
+}
+
+nav .menu_item {
+    background-color: lightgray;
+    padding: 5px;
+}
+
+/*
+label.create_room {
+    margin-right: 20px;
+    margin-top: 1opx;
+}
+*/
